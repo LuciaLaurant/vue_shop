@@ -37,3 +37,7 @@ body,
 .bdbottom {
     border-bottom: 1px solid #eee;
 }
+
+.el-steps {
+    margin: 15px 0;
+}
